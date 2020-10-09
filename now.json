@@ -1,7 +1,7 @@
 {
     "build": {
         "env": {
-            "GITHUB_TOKEN": "@github_token"
+            "GITHUB_TOKEN": "919b8e8d2be847cc4bc038704b51744c592db9bc"
         }
     }
 }
